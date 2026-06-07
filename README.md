@@ -2,6 +2,13 @@
 
 在守望先锋（Overwatch）游戏中自动演奏钢琴的 Windows 桌面工具。通过键盘驱动校准琴键位置，使用 `SendInput` API 控制鼠标演奏乐谱。
 
+# 下载地址
+
+https://wwazp.lanzouw.com/iNT9g3rccjxc     最新版本，缺点需要一个一个按键定位，优点极其精准。
+
+
+https://wwazp.lanzouw.com/iSg203rccgfg     中间版本，缺点按键定位不够准确，优点按键定位快速。
+
 ## 系统要求
 
 - Windows 10 或 Windows 11（64 位）
